@@ -1,0 +1,7 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+char const * const VersionNumber = "@Carina_VERSION_MAJOR@."
+	"@Carina_VERSION_MINOR@.@Carina_VERSION_PATCH@";
+
+#endif
